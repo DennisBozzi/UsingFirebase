@@ -20,4 +20,11 @@ RUN dotnet publish "./UsingFirebase.csproj" -c $BUILD_CONFIGURATION -o /app/publ
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
+
+# copy swaggerDark.css
+COPY ["wwwroot/css/swaggerDark.css", "wwwroot/css/swaggerDark.css"]
+
+# if .env exist's, will be copied
+RUN if [ -f .env ]; then cp .env /app/.env; fi
+
 ENTRYPOINT ["dotnet", "UsingFirebase.dll"]

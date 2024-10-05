@@ -44,3 +44,4 @@ C:\Projetos\UsingFirebase\bin\Debug\net8.0\Sprache.dll
 C:\Projetos\UsingFirebase\bin\Debug\net8.0\System.CodeDom.dll
 C:\Projetos\UsingFirebase\bin\Debug\net8.0\System.Management.dll
 C:\Projetos\UsingFirebase\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Projetos\UsingFirebase\obj\Debug\net8.0\UsingFirebase.sourcelink.json

@@ -1,31 +1,23 @@
 using UsingFirebase.Configurations;
 using DotNetEnv;
 
-namespace UsingFirebase
+Env.Load();
+
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.ConfigureService(builder.Configuration);
+
+
+builder.WebHost.ConfigureKestrel(serverOptions =>
 {
-    public class Program
-    {
-        public static void Main(string[] args)
-        {
-            var builder = WebApplication.CreateBuilder(args);
+    serverOptions.ListenAnyIP(8080);
+    serverOptions.ListenAnyIP(8081);
+});
 
-            builder.WebHost.ConfigureKestrel(serverOptions =>
-            {
-                serverOptions.ListenAnyIP(8080);
-                serverOptions.ListenAnyIP(8081);
-            });
-            
-            builder.Services.AddControllers();
-            builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
+var app = builder.Build();
 
-            var app = builder.Build();
+app.ConfigureApp(app.Environment);
 
-            app.ConfigureApp(app.Environment);
+app.MapControllers();
 
-            app.MapControllers();
-
-            app.Run();
-        }
-    }
-}
+app.Run();
