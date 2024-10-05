@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projetos\\UsingFirebase\\wwwroot\\css\\swaggerDark.css",
+      "PackagePath": "staticwebassets\\css\\swaggerDark.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UsingFirebase.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UsingFirebase.props",
+      "PackagePath": "build\\UsingFirebase.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UsingFirebase.props",
+      "PackagePath": "buildMultiTargeting\\UsingFirebase.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UsingFirebase.props",
+      "PackagePath": "buildTransitive\\UsingFirebase.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

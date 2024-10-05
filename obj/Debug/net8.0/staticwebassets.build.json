@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "8IagYBvSkH3I0qWJJbbRWqfyUB0c5dUh/pZq92kDYGg=",
+  "Source": "UsingFirebase",
+  "BasePath": "_content/UsingFirebase",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UsingFirebase\\wwwroot",
+      "Source": "UsingFirebase",
+      "ContentRoot": "C:\\Projetos\\UsingFirebase\\wwwroot\\",
+      "BasePath": "_content/UsingFirebase",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
