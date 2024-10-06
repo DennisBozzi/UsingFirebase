@@ -11,28 +11,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc6e7e54-0081-44ef-975f-c35d4bff8ce1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.UsingFirebase/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UsingFirebase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UsingFirebase/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Configurations/ServiceConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Configurations/ServiceConfiguration.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UsingFirebase.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UsingFirebase.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/UsingFirebase.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/UsingFirebase.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/UsingFirebase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/UsingFirebase.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/UsingFirebase.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/UsingFirebase.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/UsingFirebase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/UsingFirebase.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/UsingFirebase.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/UsingFirebase.staticwebassets.runtime.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/UsingFirebase.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/ref/UsingFirebase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/ref/UsingFirebase.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/refint/UsingFirebase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/refint/UsingFirebase.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/staticwebassets.development.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/UsingFirebase.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/UsingFirebase.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/UsingFirebase.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/obj/UsingFirebase.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/UsingFirebase.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/UsingFirebase.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
@@ -58,10 +63,13 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/DennisBozzi/UsingFirebase.git&quot;,
-    &quot;accountId&quot;: &quot;3ff7ff35-dff4-4e3a-a4d6-851a185ef457&quot;
+    &quot;url&quot;: &quot;https://github.com/dennisbozzi/usingfirebase&quot;,
+    &quot;accountId&quot;: &quot;c6995e0c-056c-49d0-8bf1-738491a63e4d&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://F:/UsingFirebase/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -76,29 +84,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.UsingFirebase: http.executor": "Run",
-    ".NET Launch Settings Profile.http.executor": "Debug",
-    "Docker.Dockerfile.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.UsingFirebase: http.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Launch Settings Profile.http.executor&quot;: &quot;Debug&quot;,
+    &quot;Docker.Dockerfile.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\denno\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\denno\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\denno\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\denno\\AppData\\Local\\JetBrains\\Shared\\vAny\\DecompilerCache&quot;,
+      &quot;C:\\Users\\denno\\AppData\\Local\\JetBrains\\Shared\\vAny\\SourcesCache&quot;,
+      &quot;C:\\Users\\denno\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Docker.Dockerfile">
     <configuration name="http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/UsingFirebase.csproj" />
@@ -162,6 +170,8 @@
       <workItem from="1728118962435" duration="2504000" />
       <workItem from="1728121648405" duration="2233000" />
       <workItem from="1728127376960" duration="4773000" />
+      <workItem from="1728173884776" duration="63000" />
+      <workItem from="1728174098332" duration="510000" />
     </task>
     <servers />
   </component>

@@ -6608,23 +6608,22 @@
   },
   "packageFolders": {
     "C:\\Users\\denno\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\UsingFirebase\\UsingFirebase.csproj",
+      "projectUniqueName": "F:\\UsingFirebase\\UsingFirebase.csproj",
       "projectName": "UsingFirebase",
-      "projectPath": "C:\\Projetos\\UsingFirebase\\UsingFirebase.csproj",
+      "projectPath": "F:\\UsingFirebase\\UsingFirebase.csproj",
       "packagesPath": "C:\\Users\\denno\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\UsingFirebase\\obj\\",
+      "outputPath": "F:\\UsingFirebase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\denno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6695,7 +6694,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

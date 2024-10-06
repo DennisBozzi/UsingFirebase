@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8IagYBvSkH3I0qWJJbbRWqfyUB0c5dUh/pZq92kDYGg=",
+  "Hash": "eC3Th7IJ0JoXEc01DTJ/9ph5cwvZxQLwQgmh07Rkv/s=",
   "Source": "UsingFirebase",
   "BasePath": "_content/UsingFirebase",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "UsingFirebase\\wwwroot",
       "Source": "UsingFirebase",
-      "ContentRoot": "C:\\Projetos\\UsingFirebase\\wwwroot\\",
+      "ContentRoot": "F:\\UsingFirebase\\wwwroot\\",
       "BasePath": "_content/UsingFirebase",
       "Pattern": "**"
     }

@@ -1,6 +1,7 @@
 using Google.Apis.Auth.OAuth2;
 using FirebaseAdmin;
 using Microsoft.OpenApi.Models;
+using UsingFirebase.Services;
 
 namespace UsingFirebase.Configurations;
 
@@ -22,6 +23,8 @@ public static class ServiceConfiguration
         services.AddControllers();
         services.AddEndpointsApiExplorer();
 
+        services.AddScoped<AuthService>();
+        
         services.AddCors(options =>
         {
             options.AddPolicy("AllowAllOrigins",
